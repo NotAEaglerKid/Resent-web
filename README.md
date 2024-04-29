@@ -1,8 +1,8 @@
-# Note: I am no longer updating the files in this repository. I do not have the time nor patience to update this repo every single update. Newest versions are in the [discord](https://discord.gg/CwU8pnbRMz).
+# resent client minus the texture packs so i can download it on my pc
 
 ## Resent
 
-Resent is the best eaglercraft pvp client. With a wide variety of both mods and texture packs, this client will become your new main in no time. Resent updates **extremely** often. Join the discord to see all the updates. It supports eaglercraft 1.8 & 1.5.
+Resent is the best (only) eaglercraft pvp client. (UwUClient is better fr) With a wide variety of both mods and texture packs, this client will become your new main (HA! NO!) in no time. Resent updates **extremely** often. Join the discord to see all the updates. It supports eaglercraft 1.8 & 1.5.
 
 
 ## Contributors
@@ -11,7 +11,7 @@ Resent is the best eaglercraft pvp client. With a wide variety of both mods and 
 
 Nitwit (hooman#1196)
 
-### Texture packs ( 1.5.2 ): 
+### Texture packs ( 1.5.2 ): (removed, look in the main repo) 
 
 * BDA_ (BDA_#9354) 
 * Vortexian (Vortexian#8232)
